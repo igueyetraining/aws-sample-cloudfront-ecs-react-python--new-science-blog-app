@@ -1,4 +1,4 @@
-# AWS Workshop :Building near real-time LLM-powered features for monolithic applications
+# AWS Workshop : Building near real-time LLM-powered features for monolithic applications
 
 https://catalog.workshops.aws/build-real-time-features-legacy-apps/en-US
 
